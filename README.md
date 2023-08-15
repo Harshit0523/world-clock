@@ -7,6 +7,6 @@ and also set alarm
 
 # Technologies Used
 HTML : For the structure and layout of the web page.
-
 CSS-Tailwaind : For design the page using this awesome technology.
+
 JavaScript : For update the time, and set alaram.
